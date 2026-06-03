@@ -55,7 +55,7 @@ noted as a production roadmap below.
 ## Repository structure
 
 ```
-aws1-serverless-webapp/
+aws-serverless-webapp/
 ├── README.md
 ├── terraform/
 │   ├── main.tf          # all resources (S3, CloudFront, API GW, Lambda, DynamoDB, IAM)
